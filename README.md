@@ -1,7 +1,7 @@
 # Masters Research Project Part1
 ## Scaled Model Aeroelastic Similarity of a Blended Wing Body through Multi-Disciplinary Optimization
 
-**This folder contains the following folders:**
+> **This folder contains the following folders:**
 
 1. Garteur Model: All the python codes for all the scale ratios are inside it
 2. Goland Wing: All the python codes for all the scale ratios are inside it
@@ -9,7 +9,7 @@
 4. Report: The final report in both .docx and .pdf format are inside this folder
 5. Results: It contains a complied version of all the results in an excel file named "RESULT BOOK.xlsx" and each folder inside this folder contains the result of convergences and MAC matrices for respective scaling ratios
 
-**HOW TO RUN THE CODES:**
+> **HOW TO RUN THE CODES:**
 
 To run the python codes for each scaling ratio:
 1. Copy all the files from the folder "Reference Model" to the respective folder for example: Scale 1by4
