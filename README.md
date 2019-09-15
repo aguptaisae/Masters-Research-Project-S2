@@ -1,2 +1,2 @@
-# Masters-Research-Project-S2
-Scaled Aircraft in Aeroelastic Similarity - Flutter Optimization
+# Masters-Research-Project-Part1
+Scaled Model Aeroelastic Similarity of a Blended Wing Body through Multi-Disciplinary Optimization
